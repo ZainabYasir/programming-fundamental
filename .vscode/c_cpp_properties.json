@@ -1,0 +1,70 @@
+{
+    "configurations": [
+        {
+            "name": "C/C++:Edit Configurations",
+            "includePath": [
+                "${workspaceFolde"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        },
+        {
+            "name": "C/C++:Edit Configurations(UI)",
+            "includePath": [
+                "c:/Users/Sameer/Desktop/GitHub Demo/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "mergeConfigurations": false,
+            "compilerPath": "c:\\Users\\Sameer\\Desktop\\GitHub Demo\\main.cpp",
+            "browse": {
+                "path": [
+                    "c:/Users/Sameer/Desktop/GitHub Demo/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "C/C++:Edit Configurations(UI)",
+            "includePath": [
+                "${GitHub Demo}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
